@@ -1,0 +1,7 @@
+{
+  "custom-grid":{
+    "component": "index",
+    "composition": "children",
+    "render": "client"
+  }
+}

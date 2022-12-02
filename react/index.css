@@ -1,0 +1,22 @@
+.special_diagramation_grid {
+  justify-items: center;
+  display: grid !important;
+  direction: ltr;
+  width: 100%;
+}
+
+.special_diagramation_grid_item_1 {
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.special_diagramation_grid_item_2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.special_diagramation_grid_item_3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.special_diagramation_grid_item_4 {
+  grid-template-columns: repeat(4, 1fr);
+}
